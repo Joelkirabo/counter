@@ -1,5 +1,6 @@
 
 export type CounterProps = {
     count:number,
-    setCount:any
+    setCount:any,
+    text:string
 }
